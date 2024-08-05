@@ -1,0 +1,44 @@
+_repo: The-history-of-the-Twentieth-Light-Division_74129
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Cavan, Frederick Rudolph Lambart, Earl of
+    aliases:
+    - Cavan, Rudolph Lambart, Earl of
+    - Lambart, Frederick Rudolph
+    - Lambart, Rudolph
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '51053'
+    url: http://www.gutenberg.org/2009/agents/51053
+    wikipedia: https://en.wikipedia.org/wiki/Rudolph_Lambart,_10th_Earl_of_Cavan
+creator:
+  author:
+    agent_name: Inglefield, Valentine Erskine
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '57356'
+    url: http://www.gutenberg.org/2009/agents/57356
+description: ''
+gutenberg_issued: '2024-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74129'
+  lccn: '24005739'
+language: en
+pgterms:marc905: 20190113024853inglefield
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aLondon :$bNisbet & Co Ltd, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. Division, 20th (Light)'
+- !lcc 'D501'
+- GITenberg
+title: The history of the Twentieth (Light) Division
+url: http://www.gutenberg.org/ebooks/74129
