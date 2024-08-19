@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '51053'
     url: http://www.gutenberg.org/2009/agents/51053
     wikipedia: https://en.wikipedia.org/wiki/Rudolph_Lambart,_10th_Earl_of_Cavan
+covers:
+- cover_type: archival
+  image_path: 74129-h/images/cover.jpg
 creator:
   author:
     agent_name: Inglefield, Valentine Erskine
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '57356'
     url: http://www.gutenberg.org/2009/agents/57356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74129#The-history-of-the-Twentieth-Light-Division
 gutenberg_issued: '2024-07-26'
 gutenberg_type: Text
 identifiers:
